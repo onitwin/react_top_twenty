@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.indi{
+  background-color: blue;
+  width:500px;
+  border: 10pt double salmon;
+  color:salmon;
+}
+
+.container{
+  text-align: center;
+  display: inline-block;
+}
